@@ -1,7 +1,7 @@
 ## Análise de Dados Completa Python
-## Tabelas (DataFrames)
-## Gráficos em Python
-## Tirar insights valiosos
+# Tabelas (DataFrames)
+# Gráficos em Python
+# Tirar insights valiosos
 
 ## Para fazer o download do Arquivo da Aula:
 
@@ -14,8 +14,9 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEM
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1VnLVFQUlZ2YXpIOERNNGExNHliNEh3MWt2QXxBQ3Jtc0ttbnJPbmNYVEh4WmU0X3g2STVtcmNsR1h0QjU2Rm1iSHJUWE1GbjRuV0drQmNfb1N2eThqX09IVTk2c1NNQjZHMnp4Yk9VYjdKemJkWkxCZDE4bUVublh5ZGNmb0VKMldOUzNqWnNFUVVLNjFGZG43TQ&q=http%3A%2F%2Feventoshashtag.herokuapp.com%2Fcertificados%2Fjornada-python&v=0A1LQ1IbySg
 
 
-<!-- tabula -> converte pdf para tabela que o pandas consegue ler -->
-<!-- kaggle -> site que disponibiliza bases de dados para treinar -->
-<!-- # dataframe tabela do pandas -->
-<!-- em termos práticos para nós, analisando a tabela os campos object é uma string -->
-<!-- curso streamlit hashtag pega os gráficos e disponiliza os gráficos num sistema -->
+# Anotações
+tabula -> converte pdf para tabela que o pandas consegue ler -->
+kaggle -> site que disponibiliza bases de dados para treinar
+dataframe tabela do pandas
+em termos práticos para nós, analisando a tabela os campos object é uma string
+curso streamlit hashtag pega os gráficos e disponiliza os gráficos num sistema
